@@ -1,3 +1,3 @@
 # Demo
 
-Quick git demo check/set up
+Quick git demo check/set up.
